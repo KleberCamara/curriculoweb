@@ -1,0 +1,49 @@
+#perfil {
+    border-radius: 30px;
+    margin-right: 10px;
+    float: left;
+}
+
+#cabecalho {
+    border-bottom-color: black;
+}
+
+#informacoes {
+    
+    border-left: 100px;
+    /*border-width: 1000px;*/
+}
+
+.corpo {
+  
+  margin-top: 25px;
+}
+
+body {
+    background-image: url(/img/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 4%;
+    margin-right: 4%;
+    padding: 0 5%;
+}
+.container {
+    width: 100%;
+    padding: 3%;
+    padding-top: 2%;
+    background-color: rgb(133, 138, 242);
+    border-radius: 5%;
+}
+.rodape {
+    background-color: rgb(133, 138, 242);
+    padding: 1%;
+    width: 50%;
+    margin-left: 25%;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+
+}
+
+#copy {
+    padding-left: 35%;
+}
